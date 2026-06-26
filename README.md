@@ -29,7 +29,7 @@ project-management/
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/akshithaakki419-sudo/Project-Management-System
+git clone https://github.com/akshithaakki419-sudo/Project-Management-System.git
 cd Project-Management-System
 ```
 
